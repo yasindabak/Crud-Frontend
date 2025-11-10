@@ -30,7 +30,7 @@ A modern React application built with TypeScript, Vite, and Material-UI that dem
 
 1. **Clone the repository**
    ```bash
-   git clone <yasindabak>
+   git clone 
    cd client
    ```
 
